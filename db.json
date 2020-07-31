@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "customerName": "Laxman",
+      "phoneNumber": "789343",
+      "email": "laxman@example.com",
+      "bikeBrand": "yyy",
+      "typeOfService": "chain replacement",
+      "dueDate": "2020-07-09"
+    },
+    {
+      "id": 3,
+      "customerName": "hanuman",
+      "phoneNumber": "67654545",
+      "email": "hanuman@example.com",
+      "bikeBrand": "zzz",
+      "typeOfService": "brake maintenance",
+      "dueDate": "2020-07-20"
+    },
+    {
+      "customerName": "das",
+      "phoneNumber": "432156",
+      "email": "das@hotmail.com",
+      "bikeBrand": "dew",
+      "typeOfService": "chain replacement",
+      "dueDate": "2020-06-20",
+      "id": 4
+    },
+    {
+      "customerName": "kishore",
+      "phoneNumber": "90909090",
+      "email": "kishore@gmail.com",
+      "bikeBrand": "jkjkj",
+      "typeOfService": "wheel adjustment",
+      "dueDate": "2020-06-25",
+      "id": 5
+    },
+    {
+      "customerName": "Soumya Chalakkal",
+      "phoneNumber": "+4746880583",
+      "email": "soumyachalakkal@gmail.com",
+      "bikeBrand": "jkjkj",
+      "typeOfService": "chain replacement",
+      "dueDate": "2020-06-12",
+      "id": 6
+    }
+  ]
+}
